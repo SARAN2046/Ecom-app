@@ -1,0 +1,6 @@
+.image-text2 {
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  transform: translate(-50%, -25%);
+}
