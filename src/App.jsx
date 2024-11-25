@@ -28,7 +28,7 @@ const App = () => {
     <>       
     <Navbar1 />
     <Routes>
-      <Route path="/" element={<>
+      <Route path="Ecom-app/" element={<>
         <Firstban />  <Card1 />  <Banner1 /> <Products/> <Aboutus /> <Carosel12/> 
       </>}></Route>
       <Route path="/products" element={<Salepro/>}></Route>
